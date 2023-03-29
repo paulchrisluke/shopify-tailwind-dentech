@@ -9,7 +9,7 @@
           "type": "announcement",
           "settings": {
             "text": "Go to Assist",
-            "text_alignment": "center",
+            "text_alignment": "right",
             "color_scheme": "background-1",
             "link": "shopify:\/\/pages\/go-to-assist"
           }
@@ -18,7 +18,7 @@
           "type": "announcement",
           "settings": {
             "text": "e-Payments",
-            "text_alignment": "center",
+            "text_alignment": "right",
             "color_scheme": "background-1",
             "link": "shopify:\/\/pages\/epayments"
           }
@@ -27,7 +27,7 @@
           "type": "announcement",
           "settings": {
             "text": "Support: (866) 549-8702",
-            "text_alignment": "center",
+            "text_alignment": "right",
             "color_scheme": "background-1",
             "link": "shopify:\/\/pages\/support"
           }
