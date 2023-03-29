@@ -22,16 +22,6 @@
   {%- endcase -%}
 {%- endfor -%}
 
-{% if section.settings.enable %}
-  <div class="announcement-bar">
-    <div class="announcement-row">
-      <div class="announcement">{{ section.settings.announcement_1 }}</div>
-      <div class="announcement">{{ section.settings.announcement_2 }}</div>
-      <div class="announcement">{{ section.settings.announcement_3 }}</div>
-    </div>
-  </div>
-{% endif %}
-
 
 {% schema %}
 {
