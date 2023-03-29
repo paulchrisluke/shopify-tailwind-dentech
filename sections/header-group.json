@@ -22,11 +22,21 @@
             "color_scheme": "background-1",
             "link": "shopify:\/\/pages\/epayments"
           }
+        },
+        "8df0953a-d486-4f88-bf5e-bbd5012f7bde": {
+          "type": "announcement",
+          "settings": {
+            "text": "Support: (866) 549-8702",
+            "text_alignment": "center",
+            "color_scheme": "background-1",
+            "link": "shopify:\/\/pages\/support"
+          }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "1eb02a34-799d-444a-a16f-ebc513f277f8"
+        "1eb02a34-799d-444a-a16f-ebc513f277f8",
+        "8df0953a-d486-4f88-bf5e-bbd5012f7bde"
       ],
       "settings": {
       }
