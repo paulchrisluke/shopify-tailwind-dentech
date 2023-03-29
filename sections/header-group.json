@@ -39,7 +39,7 @@
         "8df0953a-d486-4f88-bf5e-bbd5012f7bde"
       ],
       "custom_css": [
-
+        ".announcement-bar-section {white-space: nowrap; overflow-x: auto;}"
       ],
       "settings": {
       }
